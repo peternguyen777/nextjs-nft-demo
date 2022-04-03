@@ -25,3 +25,5 @@ export default createSchema({
     // { type: 'typename' } in other document schemas
   ]),
 })
+
+//https://nftchallenge-ptr.sanity.studio/
